@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GolcovaJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GolcovaJava_jar</output-path>
+    <root id="archive" name="GolcovaJava.jar">
+      <element id="module-output" name="GolcovaJava" />
+    </root>
+  </artifact>
+</component>
